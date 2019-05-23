@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+header {
+  background-color: #33a5da;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  padding-left: 30px;
+  font-size: 10px;
+}
+
+body {
+  background-color: #222222
+  /* ebebeb */
+}
+
+.box {
+  background-color: #ebebeb;
+  height: 60vh;
+  /* width: 90vw; */
+  margin: 70px;
+  display: flex;
+  justify-content: space;
+  flex-direction: row;
+}
+
+
